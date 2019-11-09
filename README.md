@@ -3,9 +3,9 @@
 
 # How to crack Backdoored 1.6:
  
-## The developers are so retarded, they made the license key just your backdoored hwid hashed twice with sha512
- 
-## Here's their HWID gen method:
+The developers are so retarded, they made the license key just your backdoored hwid hashed twice with sha512
+
+Here's their HWID gen method:
  
 ```
 private static String getHwid() {
