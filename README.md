@@ -16,3 +16,6 @@ private static String getHwid() {
  
 Backdoored 1.6 with spooky dll removed: https://workupload.com/file/JW7PZcrh
 Backdoored 1.6 keygen (run with 64 bit java [Program Files/Java] so it generates the right hash): https://workupload.com/file/YApdWpww
+
+Also, check out the devs shitty skidded """""obfuscator""""" that optimizes your jar for easier cracking by me
+https://github.com/cookiedragon234/CObf
